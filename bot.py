@@ -40,4 +40,4 @@ async def on_message(message):
             #discord.Status.<狀態>，可以是online,offline,idle,dnd,invisible
             await client.change_presence(status=discord.Status.idle, activity=game)
 
-client.run('MTA1MDY5MzE4NjYzMDIwNTUxMQ.G8xjo4.ZJO8JbltNR8VNoW2C3MrfdmvTKEyM32xfdUCaw') #TOKEN在剛剛Discord Developer那邊「BOT」頁面裡面
+client.run('MTA1MDY5MzE4NjYzMDIwNTUxMQ.G8xjo4.') #TOKEN在剛剛Discord Developer那邊「BOT」頁面裡面
